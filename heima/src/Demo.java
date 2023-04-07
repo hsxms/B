@@ -6,5 +6,7 @@ public class Demo {
         List<Integer> list = new ArrayList<>();
         list.add(5);
 
+        List<String> stringList = new ArrayList<>();
+        stringList.add("5");
     }
 }
