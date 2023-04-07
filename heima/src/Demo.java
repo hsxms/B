@@ -8,5 +8,7 @@ public class Demo {
 
         List<String> stringList = new ArrayList<>();
         stringList.add("5");
+        
+        list。add(6);
     }
 }
